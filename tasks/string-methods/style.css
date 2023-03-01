@@ -1,0 +1,16 @@
+.table {
+	border: 1px solid #cecece;
+	padding: 3px;
+	text-align: center;
+}
+
+.table__head {
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.table__td {
+	border: 1px solid #cecece;
+	padding: 3px 10px;
+}
+
